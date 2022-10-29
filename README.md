@@ -1,3 +1,3 @@
-# cursohtmlecss3 - parte I
+# curso html e css3 - parte I
 Curso da Alura
-Incluir trabalho feito no Vscode 
+Primeiro site de HTML / CSS3
